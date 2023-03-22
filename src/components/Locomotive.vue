@@ -139,7 +139,7 @@ export default {
 </template>
 
 <style scoped lang="scss">
-@import './src/assets/merle-scss/main';
+@import '@/assets/merle-scss/main.scss';
 
 h1, h2, p, span {
     cursor: default;
